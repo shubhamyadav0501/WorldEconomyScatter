@@ -1,2 +1,2 @@
 # WorldEconomyScatter
-![alt text](https://raw.githubusercontent.com/shubhamyadav0501/WorldEconomyScatter/images/preview.jpeg)
+![alt text](https://github.com/shubhamyadav0501/WorldEconomyScatter/blob/master/images/Preview.JPG)
