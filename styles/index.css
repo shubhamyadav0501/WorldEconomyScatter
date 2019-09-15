@@ -1,0 +1,31 @@
+.tooltip {
+            position: absolute;
+            font-size: 12px;
+            color: white;
+            width:  auto;
+            height: auto;
+            pointer-events: none;
+            background-color: #2D2D2D;
+            border-radius: 0.5em;
+            margin: auto;
+            padding: 5px;
+
+        }
+
+*, *:after,*:before{
+	box-sizing: border-box;
+
+  //For iOS tap glitch fix
+  -webkit-tap-highlight-color:transparent;
+}
+
+
+svg{
+  overflow: visible !important;
+}
+
+html,body{
+  background-color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	//@include noSelect;
+}
